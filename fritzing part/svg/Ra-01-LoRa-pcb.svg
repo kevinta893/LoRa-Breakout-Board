@@ -1,0 +1,24 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="19.89278mm" height="18.89278mm" viewBox="0 0 56.38898 53.55433">
+  <title>Ra-01-LoRa-pcb</title>
+  <g id="silkscreen">
+    <rect id="outline" x="0.5" y="0.5" width="55.38898" height="52.55433" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+  </g>
+  <g id="copper1">
+    <rect id="connector15pad" x="47.27165" y="5.68629" width="7.2" height="2.83465" fill="#f5bd18"/>
+    <rect id="connector14pad" x="47.27165" y="11.30112" width="7.2" height="2.83465" fill="#f5bd18"/>
+    <rect id="connector13pad" x="47.2676" y="16.97041" width="7.2" height="2.83465" fill="#f5bd18"/>
+    <rect id="connector12pad" x="47.23727" y="22.6397" width="7.2" height="2.83465" fill="#f5bd18"/>
+    <rect id="connector11pad" x="47.25446" y="28.30899" width="7.2" height="2.83465" fill="#f5bd18"/>
+    <rect id="connector10pad" x="47.25446" y="33.92382" width="7.2" height="2.83465" fill="#f5bd18"/>
+    <rect id="connector9pad" x="47.25041" y="39.59311" width="7.2" height="2.83465" fill="#f5bd18"/>
+    <rect id="connector8pad" x="47.22008" y="45.2624" width="7.2" height="2.83465" fill="#f5bd18"/>
+    <rect id="connector7pad" x="1.94311" y="5.71352" width="7.2" height="2.83465" fill="#f5bd18"/>
+    <rect id="connector6pad" x="1.94311" y="11.32835" width="7.2" height="2.83465" fill="#f5bd18"/>
+    <rect id="connector5pad" x="1.93906" y="16.99764" width="7.2" height="2.83465" fill="#f5bd18"/>
+    <rect id="connector4pad" x="1.90873" y="22.66693" width="7.2" height="2.83465" fill="#f5bd18"/>
+    <rect id="connector3pad" x="1.92592" y="28.33622" width="7.2" height="2.83465" fill="#f5bd18"/>
+    <rect id="connector2pad" x="1.92592" y="33.95105" width="7.2" height="2.83465" fill="#f5bd18"/>
+    <rect id="connector1pad" x="1.92187" y="39.62034" width="7.2" height="2.83465" fill="#f5bd18"/>
+    <rect id="connector0pad" x="1.89153" y="45.28963" width="7.2" height="2.83465" fill="#f5bd18"/>
+  </g>
+</svg>
