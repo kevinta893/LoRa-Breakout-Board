@@ -13,7 +13,7 @@ See the [Releases](https://github.com/kevinta893/LoRa-Breakout-Board/releases) t
 
 
 ## Wiring Diagram
-![Wiring Diagram](https://raw.githubusercontent.com/kevinta893/LoRa-Breakout-Board/master/fritzing/Arduino%20Pro%20Nano%20V3%20to%20Ra-01%20(SX1278)_bb.png)
+![Wiring Diagram](https://raw.githubusercontent.com/kevinta893/LoRa-Breakout-Board/master/wiring%20diagram/Arduino%20Pro%20Nano%20V3%20to%20Ra-01%20(SX1278)_bb.png)
 
 ## Breakout Board
 ![Breakout Board](https://raw.githubusercontent.com/kevinta893/LoRa-Breakout-Board/master/breakout/Ra-01%20Breakout%20Board_pcb.png)
